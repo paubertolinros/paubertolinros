@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="/images/pau-bertolin.png" alt="banner that says Pau Bertolin - full stack developer, actress, marketing director, designer and pau's photo.">
 <!--
 **paubertolinros/paubertolinros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
