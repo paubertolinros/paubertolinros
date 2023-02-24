@@ -38,7 +38,7 @@ The more I learn, the more I’ll be extending this list by adding new skills th
 By achieving that, my ultimate goal is to direct my work to projects and actions that will help making of this world a better place.
 ## Contact me ↓
 
-<a href="#" style="color:black; text-decoration:none;"><img width="20px" src="/images/contact-email.png" alt="email icon">paulaberos@gmail.com</a>
+<a href="#"><img width="20px" src="/images/contact-email.png" alt="email icon"></a> paulaberos@gmail.com
 <a href="#"><img width="20px" src="/images/linkedin.png" alt="linkedin logo">Pau Bertolin Ros</a>
 
 
