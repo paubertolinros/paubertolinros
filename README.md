@@ -5,7 +5,7 @@ Yes, all of the above! In fact I could not be studying WebDev at Ironhack school
 
 Communication, technology, art, and design have always been an instrumental part of my life hence why I’m doing my best to combine them in my new role as a web developer. I’m currently able to work with 
 
-<a href="#"><img src="/images/tools/html-5.png" alt="html5 logo"></a>
+<a href="#"><img width="30px" src="/images/tools/html-5.png" alt="html5 logo"></a>
 <a href="#"><img src="/images/tools/css-3.png" alt="css3 logo"></a>
 <a href="#"><img src="/images/tools/js.png" alt="javaScript logo"></a>
 <a href="#"><img src="/images/tools/express.png" alt="express js logo"></a>
@@ -18,7 +18,7 @@ Communication, technology, art, and design have always been an instrumental part
 <a href="#"><img src="/images/tools/wordpress-logo.png" alt="wordpress logo"></a>
 <a href="#"><img src="/images/tools/figma.png" alt="figma logo"></a>
 --<a href="#"><img src="/images/tools/photoshop.png" alt="adobe photoshop logo"></a>
-<a href="#"><img src="/images/tools/illustrator-adobe.png" alt="adobe illustrator logo"></a>
+<a href="#"><img src="/images/tools/ilustrator-adobe.png" alt="adobe illustrator logo"></a>
 
 The more I learn, the more I’ll be extending this list by adding new skills that I can’t wait to discover. What I know for now is that I have found on web development, the tools, set of skills, and strategies that require for me to grow both personally and professionally. 
 By achieving that, my ultimate goal is to direct my work to projects and actions that will help making of this world a better place.
