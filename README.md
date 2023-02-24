@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi, I'm Pau 🖤
+
 <img src="/images/pau-bertolin.png" alt="banner that says Pau Bertolin - full stack developer, actress, marketing director, designer and pau's photo.">
 Yes, all of the above! In fact I could not be studying WebDev at Ironhack school in Barcelona if it weren’t for all of these other learning experiences and opportunities I’ve had in my life.
 
