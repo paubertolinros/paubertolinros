@@ -42,8 +42,3 @@ By achieving that, my ultimate goal is to direct my work to projects and actions
 <br>
 <br>
 <img width="20px" align="center" src="/images/linkedin.png" alt="linkedin logo"> [ Visit my linkedIn](https://pages.github.com/)
-<span style="color : red;">
-  [Learn more][1]
-</span>
-
-
