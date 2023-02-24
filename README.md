@@ -40,6 +40,7 @@ By achieving that, my ultimate goal is to direct my work to projects and actions
 
 <img width="20px" align="center" src="/images/contact-email.png" alt="email icon"> paulaberos@gmail.com
 <br>
+<br>
 <img width="20px" align="center" src="/images/linkedin.png" alt="linkedin logo"> [ Visit my linkedIn](https://pages.github.com/)
 
 
