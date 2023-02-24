@@ -40,6 +40,5 @@ By achieving that, my ultimate goal is to direct my work to projects and actions
 
 <a href="#"><img width="20px" align="center" src="/images/contact-email.png" alt="email icon"></a> [paulaberos@gmail.com](https://pages.github.com/)
 <a href="#"><img width="20px" align="center" src="/images/linkedin.png" alt="linkedin logo">Pau Bertolin Ros</a>
-<a href="https://www.google.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
 
 
