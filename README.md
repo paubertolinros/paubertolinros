@@ -11,13 +11,14 @@ Communication, technology, art, and design have always been an instrumental part
 <a href="#"><img width="37px" src="/images/tools/express.png" alt="express js logo"></a>
 <a href="#"><img width="37px" src="/images/tools/node.png" alt="node js logo"></a>
 <a href="#"><img width="37px" src="/images/tools/atom.png" alt="react logo"></a>
-<a href="#"><img width="37px" src="/images/tools/mongoDB.png" alt="mongoDB logo"></a>
+<a href="#"><img width="20px" src="/images/tools/mongoDB.png" alt="mongoDB logo"></a>
 <a href="#"><img width="37px" src="/images/tools/hbs.png" alt="handlebars logo"></a>
 <a href="#"><img width="37px" src="/images/tools/visualcode.png" alt="visual studio code logo"></a>
 <a href="#"><img width="37px" src="/images/tools/github.png" alt="github logo"></a>
 <a href="#"><img width="37px" src="/images/tools/wordpress-logo.png" alt="wordpress logo"></a>
 <a href="#"><img width="37px" src="/images/tools/figma.png" alt="figma logo"></a>
---<a href="#"><img width="37px" src="/images/tools/photoshop.png" alt="adobe photoshop logo"></a>
+<a href="#"><img width="37px" src="/images/tools/miro.png" alt="miro dashboard logo"></a>
+<a href="#"><img width="37px" src="/images/tools/photoshop.png" alt="adobe photoshop logo"></a>
 <a href="#"><img width="37px" src="/images/tools/ilustrador-adobe.png" alt="adobe illustrator logo"></a>
 
 The more I learn, the more I’ll be extending this list by adding new skills that I can’t wait to discover. What I know for now is that I have found on web development, the tools, set of skills, and strategies that require for me to grow both personally and professionally. 
